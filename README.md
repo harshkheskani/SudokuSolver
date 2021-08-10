@@ -1,2 +1,2 @@
 # SudokuSolver
-A programme that uses a back tracking algorithm to solve any given sudoku puzzle.
+A sudoku solver built using python that uses a back tracking algorithm to solve any given sudoku.
